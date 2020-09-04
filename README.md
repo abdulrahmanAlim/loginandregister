@@ -7,4 +7,4 @@ Login and Register system using php.
 * Using phpMyAdmin add Database (loginandregistdb) and Table (users) with fields (name , email , password , phonenumber , address).
 * access the website by typing localhost/(the name of the folder) in your browser.
  
-*link for screen recording [Link](www.google.com).
+*link for screen recording [Link](https://drive.google.com/file/d/1HgYlbXKqHdMn6OnXjyIy5WpM-0nWMyV1/view?usp=sharing).
